@@ -152,5 +152,5 @@ To create your own Python package:
 ---
 
 Feel free to contribute by submitting issues or pull requests.
-This project is done under the guidence of Dr. RP singh and Dr. Harshita Madduri at Dept. of Mathematics NIT Kurukshetra.
+This project is done under the guidance of Dr. RP Singh and Dr. Harshita Madduri at Dept. of Mathematics NIT Kurukshetra.
 
