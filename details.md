@@ -101,8 +101,8 @@ This repository contains Python implementations of various numerical methods for
 ## How to Use This Package
 ### Step 1: Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/numerical-ode-methods.git
-$ cd numerical-ode-methods
+$ git clone (https://github.com/manojms3063/ODE-solver-python-package)
+$ cd ODE-solver-python-package
 ```
 
 ### Step 2: Install Dependencies
@@ -151,11 +151,6 @@ To create your own Python package:
 
 ---
 
-## Contributing
 Feel free to contribute by submitting issues or pull requests.
-
----
-
-## License
-This project is done underb the guidence of Dr. RP singh and Dr. Harshita Madduri at Dept. of Mathematics NIT Kurukshetra.
+This project is done under the guidence of Dr. RP singh and Dr. Harshita Madduri at Dept. of Mathematics NIT Kurukshetra.
 
